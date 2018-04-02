@@ -1,0 +1,14 @@
+.container {
+    font-family: 'Avenir', Arial, Helvetica, sans-serif;
+    -webkit-font-smoothing: antialiasd;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    /* color: white; */
+    margin-top: 60px;
+
+}
+
+.logging {
+    color: our color;
+    border: 2px solid #515551;
+}
